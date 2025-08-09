@@ -1,4 +1,5 @@
-# portfolio
-[tobq.github.io](http://tobq.github.io)
+# Portfolio Redirect
 
-Source available [here](https://github.com/tobq/portfolio)
+Redirects [tobq.github.io](https://tobq.github.io) → [tobi.bio](https://tobi.bio)
+
+Simple GitHub Pages redirect site.
